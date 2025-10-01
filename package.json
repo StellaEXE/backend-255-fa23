@@ -10,7 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.3"
+=======
     "cors": "^2.8.5",
     "express": "^5.1.0"
+>>>>>>> f1a74b878f271689643673a215b7dc39a580973f
   }
 }
